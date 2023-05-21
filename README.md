@@ -19,4 +19,5 @@ Place down a trigger with some area effect on the carrier. This trigger should b
 Now everythng should be set. Place down a unit on the carrier so that you can watch the planes take off without player interference, and watch the takeoff sequence. 
 
 ## Known Issues
-Sometimes one or both jets explode on takeoff. I have no Idea why this happens but it shouldnt do it all the time. 
+1. Sometimes one or both jets explode on takeoff. I have no Idea why this happens but it shouldnt do it  all the time. 
+2. Error Message appears. Might be because youre playing with mods or have expanded the scope of the scenario
