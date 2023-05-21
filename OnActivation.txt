@@ -1,0 +1,3 @@
+# Place this in your On Activation field on the trigger.
+# If you called the sqf file something else put that name in place of jetlaunch.sqf
+nul = []execVM "jetlaunch.sqf";
